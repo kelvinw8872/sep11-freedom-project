@@ -8,5 +8,6 @@ Doing all this research will help me gather an understanding on how rockets work
 
 Outside of my project, I have devoloped skills such as, how to google and embracing failure. Originally, I wanted to work on marine biology, however I struggled to learn and discover a problem behind it. Bebracing this failure, I found a new topic which I am very passionate about! Googling information is a very important skill to me. Being able to access reliable information in seconds really helps me in my everyday life and with this project. 
 
-All in all, I have a lot about rocket science that I have to learn about such as the programming and code used to make the rockets work. It believe it will be a very interesting process, conveying my research throught my blog entries. 
+All in all, I have a lot about rocket science that I have to learn about such as the programming and code used to make the rockets work. It believe it will be a very interesting process, conveying my research throughtout my blog entries. 
+
 [Home](../README.md)
